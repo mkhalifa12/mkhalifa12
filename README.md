@@ -9,7 +9,7 @@ I am mkhalifa jonte,I am currently pursuing my Bachelors in computer science fro
 - 🥅 2021 Goals: To be profficient in MERN Stack :|
 - ⚡ Fun fact: I love taking photos, playing video games.
 <p align="center">
-    all you marketing automation tools [https://softwarecosts.com/](here)
+    all you marketing automation tools [https://softwarecosts.com/](https://softwarecosts.com/)
 </p>
 <p align="center">
     <a href="https://github.com/HridoyHazard/github-readme-streak-stats">
